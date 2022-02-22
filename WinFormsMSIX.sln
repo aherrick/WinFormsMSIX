@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32210.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsMSIX", "WinFormsMSIX\WinFormsMSIX.csproj", "{DBCB1384-6603-494B-B0C2-105E20C28ADE}"
 EndProject
-Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WinFomrsMSIX.AppPkg", "WinFomrsMSIX.AppPkg\WinFomrsMSIX.AppPkg.wapproj", "{AA5CAAB3-9604-472C-BC57-68E7A1548A38}"
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WinFormsMSIX.AppPkg", "WinFormsMSIX.AppPkg\WinFormsMSIX.AppPkg.wapproj", "{AA5CAAB3-9604-472C-BC57-68E7A1548A38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

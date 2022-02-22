@@ -42,7 +42,7 @@ jobs:
 
  
     - name: Publish
-      run: msbuild WinFomrsMSIX.AppPkg\WinFomrsMSIX.AppPkg.wapproj /restore /t:Publish /p:AppxBundle=Always /p:UapAppxPackageBuildMode=Sideload /p:AppxBundlePlatforms="x64" /p:configuration=Release /p:GenerateAppxPackageOnBuild=true /p:Platform=x64
+      run: msbuild WinFormsMSIX.AppPkg\WinFormsMSIX.AppPkg.wapproj /restore /t:Publish /p:AppxBundle=Always /p:UapAppxPackageBuildMode=Sideload /p:AppxBundlePlatforms="x64" /p:configuration=Release /p:GenerateAppxPackageOnBuild=true /p:Platform=x64
 
     
 
